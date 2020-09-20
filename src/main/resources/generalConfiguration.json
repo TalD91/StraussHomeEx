@@ -1,0 +1,9 @@
+{
+    "dataConnectorDBType": "mongoDB",
+    "dataConnectorDeviceType": "DeviceGen1",
+    "weatherUrl": "https://weatherbit-v1-mashape.p.rapidapi.com/current",
+    "weatherHeaderRapidHostName": "x-rapidapi-host",
+    "weatherHeaderRapidHostKey": "weatherbit-v1-mashape.p.rapidapi.com",
+    "weatherHeaderRapidKeyName": "x-rapidapi-key",
+    "weatherHeaderRapidKey": "e7cb211d32mshfff7916d4ca6dbdp17f833jsne7c0ed0c21eb"
+}
